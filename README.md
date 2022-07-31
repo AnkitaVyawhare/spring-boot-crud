@@ -1,2 +1,2 @@
-# spring-boot-crud-example-2
+# spring-boot-crud
 Project application for product database
